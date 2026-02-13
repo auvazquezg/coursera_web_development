@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+#mobile-menu {
+  background-color: #e0e0e0;
+}
+
+#mobile-menu ul {
+  width: 100%;
+}
+
+#mobile-menu li {
+  border-bottom: 1px solid #ccc;
+}
+
+.menu-section {
+  background-color: #bdbdbd;
+  margin-top: 20px;
+  padding: 20px;
+  height: 1000px; 
+}
